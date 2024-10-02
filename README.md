@@ -1,4 +1,4 @@
-### Hi there, I'm Tristan Parry! 👋
+## Hi there, I'm Tristan Parry! 👋
 
 🎓 **Computer Engineering Student** at the University of Waterloo  
 💻 **Full Stack Developer** with a passion for creating impactful software solutions  
