@@ -5,4 +5,4 @@
 📈 Working on innovative projects in **AI, healthcare, and data visualization**
 
 ### 📫 **Let's Connect!**
-[Email](mailto:tparry@uwaterloo.ca) | [LinkedIn](https://linkedin.com/in/tristan-parry) | [GitHub](https://github.com/tristanparry) | [Website](https://tristanparry.github.io/)
+[Email](mailto:tparry@uwaterloo.ca) • [LinkedIn](https://linkedin.com/in/tristan-parry) • [GitHub](https://github.com/tristanparry) • [Website](https://tristanparry.github.io/)
