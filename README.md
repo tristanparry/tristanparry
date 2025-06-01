@@ -5,4 +5,4 @@
 📈 Working on innovative projects in **sports media, healthcare, and data visualization**
 
 ### 📫 **Let's Connect!**
-[Email](mailto:tparry@uwaterloo.ca) • [LinkedIn](https://linkedin.com/in/tristan-parry) • [GitHub](https://github.com/tristanparry) • [Portfolio](https://tristanparry.github.io/)
+[Email](mailto:tparry@uwaterloo.ca) • [LinkedIn](https://linkedin.com/in/tristan-parry) • [Portfolio](https://tristanparry.github.io/)
